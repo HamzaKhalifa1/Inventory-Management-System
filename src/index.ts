@@ -95,6 +95,7 @@ try {
         category: "Electronics",
     });
 
+
     console.log("Total Inventory Value:", inventory.getTotalInventoryValue());
 
     inventory.restockProduct("1", 5);
